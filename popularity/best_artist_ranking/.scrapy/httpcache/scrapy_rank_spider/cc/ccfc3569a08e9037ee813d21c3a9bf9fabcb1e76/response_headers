@@ -1,0 +1,13 @@
+Content-Length: 718
+Server: Varnish
+Retry-After: 0
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes
+Date: Sun, 17 Jul 2022 04:56:19 GMT
+Via: 1.1 varnish
+X-Served-By: cache-tyo11957-TYO
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1658033779.287455,VS0,VE0
+Strict-Transport-Security: max-age=31536000
+Location: https://www.businessinsider.com/the-100-most-popular-rock-bands-of-all-time-2018-9

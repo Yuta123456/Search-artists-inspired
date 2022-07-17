@@ -1,0 +1,13 @@
+Content-Length: 718
+Server: Varnish
+Retry-After: 0
+Content-Type: text/html; charset=utf-8
+Accept-Ranges: bytes
+Date: Sun, 17 Jul 2022 04:54:54 GMT
+Via: 1.1 varnish
+X-Served-By: cache-tyo11967-TYO
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1658033695.640925,VS0,VE0
+Strict-Transport-Security: max-age=31536000
+Location: https://www.businessinsider.com/robots.txt

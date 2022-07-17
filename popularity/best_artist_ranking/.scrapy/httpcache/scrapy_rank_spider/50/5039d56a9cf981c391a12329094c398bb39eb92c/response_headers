@@ -1,0 +1,20 @@
+Content-Length: 57328
+Content-Type: text/html; charset=utf-8
+X-Powered-By: Fenrir
+Last-Modified: Mon, 01 Oct 2018 19:41:24 GMT
+Cache-Control: public, max-age=120
+X-Frame-Options: sameorigin
+Link: </styles/post-page.a1b1218405fb349065a1.css>; rel=preload; as=style; nopush, </scripts/main.857b71b3279515e98762.js>; rel=preload; as=script; nopush, </scripts/vendors.19960aae4ef5bb60959e.js>; rel=preload; as=script; nopush, </scripts/utilities.7bdf0a62cfed505dd578.js>; rel=preload; as=script; nopush, </public/fonts/subset/LabGrotesque-Black-subset.woff2>; rel=preload; as=font; type=font/woff2; crossorigin; nopush
+Etag: W/"dc1f4-/GV+tTTMpu7h7ZyjXEVb6nE+X4k"
+Content-Encoding: br
+Via: 1.1 varnish, 1.1 varnish
+X-Country-Code: JP
+Accept-Ranges: bytes
+Date: Sun, 17 Jul 2022 04:56:23 GMT
+Age: 98027
+X-Served-By: cache-iad-kjyo7100119-IAD, cache-tyo11957-TYO
+X-Cache: HIT, MISS
+X-Cache-Hits: 1, 0
+X-Timer: S1658033784.607925,VS0,VE158
+Vary: Accept-Encoding, Authorization, Fastly-SSL, X-Device, X-Continent-Code, X-Piano-Disabled, X-User-Logged-In, X-User-Has-Access, X-ABTest-sticky-featured-products, X-ABTest-newsletter-email-input, X-ABTest-smart-cta-newsletter
+Strict-Transport-Security: max-age=31536000
