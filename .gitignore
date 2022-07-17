@@ -1,1 +1,4 @@
 /spotify/spotify.py
+/**/__pycache__/
+.cache
+*.pkl
