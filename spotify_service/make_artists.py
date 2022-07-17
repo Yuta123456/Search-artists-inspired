@@ -1,19 +1,20 @@
+import requests
+from util import debut_day_of_artist
+from spotify_service.spotify import spotify
+from popularity.estimate import estimate_score
 import datetime
 import json
-from spotify import spotify
-from util import debut_day_of_artist
+from time import sleep
 
 artists = []
 offset = 0
-while offset < 100:
+while offset < 1000:
     result = spotify.search(
-        q='genre:j-pop', type='artist', limit=50, offset=offset)
+        q='genre:rock', type='artist', limit=50, offset=offset)
     result = result['artists']['items']
-    result = filter(lambda x: x['popularity'] > 40, result)
-    # print(type(result), result.keys())
+    result = filter(lambda x: estimate_score(x) > 8000, result)
     for artist in result:
         name = artist['name']
-        print(name)
         debut_year = datetime.datetime.strptime(
             debut_day_of_artist(artist['id']), "%Y-%m-%d").strftime("%Y")
         new_artist = {
@@ -26,6 +27,8 @@ while offset < 100:
         }
         artists.append(new_artist)
     offset += 50
+    print("{:.2f} % : ".format(len(artists)*100/5000), datetime.datetime.now())
+    sleep(2)
 
-with open('test_jpop.json', 'w') as f:
-    json.dump(artists, f, indent=2)
+with open('rock_5000.json', 'w') as f:
+    json.dump(artists, f, indent=4)

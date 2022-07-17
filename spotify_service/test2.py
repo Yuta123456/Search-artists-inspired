@@ -1,4 +1,4 @@
-from spotify import spotify
+from spotify_service import spotify
 
 name = "ELLEGARDEN"
 results = spotify.search(q='artist:' + name, type='artist')

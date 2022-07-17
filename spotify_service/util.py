@@ -1,10 +1,5 @@
 import datetime
-from operator import ge
-from unittest import result
-
-from requests import get
-from sympy import limit
-from spotify import spotify
+from spotify_service.spotify import spotify
 
 
 def debut_day_of_artist(artist_id):

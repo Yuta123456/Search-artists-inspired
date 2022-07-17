@@ -1,5 +1,5 @@
 import datetime
-from spotify import spotify
+from spotify_service import spotify
 from util import debut_day_of_artist
 import json
 
@@ -29,4 +29,3 @@ for artist in ranking_data:
     artists.append(new_artist)
 with open('test.json', 'w') as f:
     json.dump(artists, f, indent=2)
-
