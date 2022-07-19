@@ -12,8 +12,12 @@ def debut_day_of_artist(artist_id):
             artist_id, limit=50, offset=offset)['items']
         offset += 50
         albums += result_album
-    albums = filter(lambda x: int(
-        x['release_date'].split('-')[0]) > 1900, albums)
+    # print(albums)
+    albums = list(filter(lambda x: int(
+        x['release_date'].split('-')[0]) > 1900, albums))
+    # print(artist_id, albums)
+    if len(albums) == 0:
+        return "2022-01-01"
     debut_year_album = min(albums, key=lambda x: x['release_date'])
     release_date = debut_year_album['release_date']
     if len(release_date.split('-')) < 3:
