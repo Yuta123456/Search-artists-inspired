@@ -1,0 +1,2388 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "id": "Dionne Warwick"
+        },
+        {
+            "id": "Cher"
+        },
+        {
+            "id": "Phil Collins"
+        },
+        {
+            "id": "Foo Fighters"
+        },
+        {
+            "id": "Duran Duran"
+        },
+        {
+            "id": "Barry Manilow"
+        },
+        {
+            "id": "Bryan Adams"
+        },
+        {
+            "id": "U2"
+        },
+        {
+            "id": "The Beatles"
+        },
+        {
+            "id": "Grateful Dead"
+        },
+        {
+            "id": "Tears For Fears"
+        },
+        {
+            "id": "Mana"
+        },
+        {
+            "id": "The Smiths"
+        },
+        {
+            "id": "The Charlie Daniels Band"
+        },
+        {
+            "id": "Maroon 5"
+        },
+        {
+            "id": "Europe"
+        },
+        {
+            "id": "Weezer"
+        },
+        {
+            "id": "Simple Minds"
+        },
+        {
+            "id": "Ben E. King"
+        },
+        {
+            "id": "The Drifters"
+        },
+        {
+            "id": "B.B. King"
+        },
+        {
+            "id": "The Supremes"
+        },
+        {
+            "id": "Paul Simon"
+        },
+        {
+            "id": "Olivia Newton-John"
+        },
+        {
+            "id": "The Platters"
+        },
+        {
+            "id": "Chevelle"
+        },
+        {
+            "id": "Sting"
+        },
+        {
+            "id": "Four Tops"
+        },
+        {
+            "id": "The Clash"
+        },
+        {
+            "id": "Pearl Jam"
+        },
+        {
+            "id": "Ricky Nelson"
+        },
+        {
+            "id": "Robert Palmer"
+        },
+        {
+            "id": "Carole King"
+        },
+        {
+            "id": "The Who"
+        },
+        {
+            "id": "Bob Seger"
+        },
+        {
+            "id": "Iron Maiden"
+        },
+        {
+            "id": "America"
+        },
+        {
+            "id": "Bob Dylan"
+        },
+        {
+            "id": "Frankie Valli & The Four Seasons"
+        },
+        {
+            "id": "Wings"
+        },
+        {
+            "id": "Motley Crue"
+        },
+        {
+            "id": "Queen"
+        },
+        {
+            "id": "Ozzy Osbourne"
+        },
+        {
+            "id": "Cristian Castro"
+        },
+        {
+            "id": "Kool & The Gang"
+        },
+        {
+            "id": "Dire Straits"
+        },
+        {
+            "id": "James Arthur"
+        },
+        {
+            "id": "Alejandro Fernandez"
+        },
+        {
+            "id": "Otis Redding"
+        },
+        {
+            "id": "Tom Waits"
+        },
+        {
+            "id": "Chayanne"
+        },
+        {
+            "id": "The Smashing Pumpkins"
+        },
+        {
+            "id": "OneRepublic"
+        },
+        {
+            "id": "Julieta Venegas"
+        },
+        {
+            "id": "Chubby Checker"
+        },
+        {
+            "id": "Steve Miller Band"
+        },
+        {
+            "id": "Eagles"
+        },
+        {
+            "id": "Korn"
+        },
+        {
+            "id": "Soda Stereo"
+        },
+        {
+            "id": "Creedence Clearwater Revival"
+        },
+        {
+            "id": "Don McLean"
+        },
+        {
+            "id": "Boston"
+        },
+        {
+            "id": "Kenny Loggins"
+        },
+        {
+            "id": "Kris Kristofferson"
+        },
+        {
+            "id": "Deep Purple"
+        },
+        {
+            "id": "Los Enanitos Verdes"
+        },
+        {
+            "id": "Kansas"
+        },
+        {
+            "id": "The Mamas & The Papas"
+        },
+        {
+            "id": "Jackie Wilson"
+        },
+        {
+            "id": "Guns N' Roses"
+        },
+        {
+            "id": "Genesis"
+        },
+        {
+            "id": "Aerosmith"
+        },
+        {
+            "id": "The Velvet Underground"
+        },
+        {
+            "id": "Nirvana"
+        },
+        {
+            "id": "John Denver"
+        },
+        {
+            "id": "Bonnie Tyler"
+        },
+        {
+            "id": "The Neighbourhood"
+        },
+        {
+            "id": "R.E.M."
+        },
+        {
+            "id": "Glen Campbell"
+        },
+        {
+            "id": "Miguel Bose"
+        },
+        {
+            "id": "Alice In Chains"
+        },
+        {
+            "id": "Foreigner"
+        },
+        {
+            "id": "Ricardo Arjona"
+        },
+        {
+            "id": "Fall Out Boy"
+        },
+        {
+            "id": "Steppenwolf"
+        },
+        {
+            "id": "Bruce Springsteen"
+        },
+        {
+            "id": "Eric Clapton"
+        },
+        {
+            "id": "Five For Fighting"
+        },
+        {
+            "id": "blink-182"
+        },
+        {
+            "id": "David Bowie"
+        },
+        {
+            "id": "Allman Brothers Band"
+        },
+        {
+            "id": "Prince"
+        },
+        {
+            "id": "Bread"
+        },
+        {
+            "id": "The Killers"
+        },
+        {
+            "id": "Imagine Dragons"
+        },
+        {
+            "id": "Bill Withers"
+        },
+        {
+            "id": "Bobby Darin"
+        },
+        {
+            "id": "Rush"
+        },
+        {
+            "id": "Alejandro Sanz"
+        },
+        {
+            "id": "AC/DC"
+        },
+        {
+            "id": "Buddy Holly"
+        },
+        {
+            "id": "George Jones"
+        },
+        {
+            "id": "James Taylor"
+        },
+        {
+            "id": "Yusuf / Cat Stevens"
+        },
+        {
+            "id": "Tom Petty"
+        },
+        {
+            "id": "Ricardo Montaner"
+        },
+        {
+            "id": "Leonard Cohen"
+        },
+        {
+            "id": "Arctic Monkeys"
+        },
+        {
+            "id": "Ramones"
+        },
+        {
+            "id": "My Chemical Romance"
+        },
+        {
+            "id": "The Temptations"
+        },
+        {
+            "id": "The Offspring"
+        },
+        {
+            "id": "Barbra Streisand"
+        },
+        {
+            "id": "Fleetwood Mac"
+        },
+        {
+            "id": "Lynyrd Skynyrd"
+        },
+        {
+            "id": "The Monkees"
+        },
+        {
+            "id": "Billy Idol"
+        },
+        {
+            "id": "Jimmy Buffett"
+        },
+        {
+            "id": "Jerry Lee Lewis"
+        },
+        {
+            "id": "Talking Heads"
+        },
+        {
+            "id": "Bee Gees"
+        },
+        {
+            "id": "Judas Priest"
+        },
+        {
+            "id": "Electric Light Orchestra"
+        },
+        {
+            "id": "Dido"
+        },
+        {
+            "id": "Journey"
+        },
+        {
+            "id": "Muse"
+        },
+        {
+            "id": "Taj Mahal"
+        },
+        {
+            "id": "The Cranberries"
+        },
+        {
+            "id": "Doris Day"
+        },
+        {
+            "id": "Rod Stewart"
+        },
+        {
+            "id": "Van Halen"
+        },
+        {
+            "id": "Red Hot Chili Peppers"
+        },
+        {
+            "id": "The Cure"
+        },
+        {
+            "id": "Lou Reed"
+        },
+        {
+            "id": "The Doors"
+        },
+        {
+            "id": "Lionel Richie"
+        },
+        {
+            "id": "Kate Bush"
+        },
+        {
+            "id": "Harry Nilsson"
+        },
+        {
+            "id": "Rage Against The Machine"
+        },
+        {
+            "id": "Annie Lennox"
+        },
+        {
+            "id": "Hank Williams"
+        },
+        {
+            "id": "The Strokes"
+        },
+        {
+            "id": "The Isley Brothers"
+        },
+        {
+            "id": "The Doobie Brothers"
+        },
+        {
+            "id": "George Strait"
+        },
+        {
+            "id": "Merle Haggard"
+        },
+        {
+            "id": "System Of A Down"
+        },
+        {
+            "id": "Michael Bolton"
+        },
+        {
+            "id": "Little Richard"
+        },
+        {
+            "id": "John Lennon"
+        },
+        {
+            "id": "Carpenters"
+        },
+        {
+            "id": "Nancy Sinatra"
+        },
+        {
+            "id": "Donna Summer"
+        },
+        {
+            "id": "ZZ Top"
+        },
+        {
+            "id": "Zac Brown Band"
+        },
+        {
+            "id": "Jim Croce"
+        },
+        {
+            "id": "Deftones"
+        },
+        {
+            "id": "Billy Joel"
+        },
+        {
+            "id": "Dusty Springfield"
+        },
+        {
+            "id": "Sam Cooke"
+        },
+        {
+            "id": "Suzanne Vega"
+        },
+        {
+            "id": "Air Supply"
+        },
+        {
+            "id": "Muddy Waters"
+        },
+        {
+            "id": "Joe Cocker"
+        },
+        {
+            "id": "The Righteous Brothers"
+        },
+        {
+            "id": "Meat Loaf"
+        },
+        {
+            "id": "KISS"
+        },
+        {
+            "id": "The Rolling Stones"
+        },
+        {
+            "id": "The Police"
+        },
+        {
+            "id": "Cyndi Lauper"
+        },
+        {
+            "id": "Alice Cooper"
+        },
+        {
+            "id": "The Everly Brothers"
+        },
+        {
+            "id": "Depeche Mode"
+        },
+        {
+            "id": "Radiohead"
+        },
+        {
+            "id": "Santana"
+        },
+        {
+            "id": "Disturbed"
+        },
+        {
+            "id": "The Kinks"
+        },
+        {
+            "id": "Fats Domino"
+        },
+        {
+            "id": "George Harrison"
+        },
+        {
+            "id": "Janis Joplin"
+        },
+        {
+            "id": "Kenny Rogers"
+        },
+        {
+            "id": "Elvis Presley"
+        },
+        {
+            "id": "Chuck Berry"
+        },
+        {
+            "id": "Tina Turner"
+        },
+        {
+            "id": "Kenny Chesney"
+        },
+        {
+            "id": "Hank Williams, Jr."
+        },
+        {
+            "id": "Juanes"
+        },
+        {
+            "id": "Black Sabbath"
+        },
+        {
+            "id": "Elton John"
+        },
+        {
+            "id": "Def Leppard"
+        },
+        {
+            "id": "Metallica"
+        },
+        {
+            "id": "REO Speedwagon"
+        },
+        {
+            "id": "Scorpions"
+        },
+        {
+            "id": "Etta James"
+        },
+        {
+            "id": "Daryl Hall & John Oates"
+        },
+        {
+            "id": "Roxette"
+        },
+        {
+            "id": "INXS"
+        },
+        {
+            "id": "Heart"
+        },
+        {
+            "id": "The Goo Goo Dolls"
+        },
+        {
+            "id": "Supertramp"
+        },
+        {
+            "id": "10cc"
+        },
+        {
+            "id": "Natalie Cole"
+        },
+        {
+            "id": "a-ha"
+        },
+        {
+            "id": "Led Zeppelin"
+        },
+        {
+            "id": "Keb' Mo'"
+        },
+        {
+            "id": "Boz Scaggs"
+        },
+        {
+            "id": "John Mellencamp"
+        },
+        {
+            "id": "Carlos Vives"
+        },
+        {
+            "id": "Neil Diamond"
+        },
+        {
+            "id": "Waylon Jennings"
+        },
+        {
+            "id": "Jo Stafford"
+        },
+        {
+            "id": "The Byrds"
+        },
+        {
+            "id": "Bon Jovi"
+        },
+        {
+            "id": "Roy Orbison"
+        },
+        {
+            "id": "La Oreja de Van Gogh"
+        },
+        {
+            "id": "Green Day"
+        },
+        {
+            "id": "TOTO"
+        },
+        {
+            "id": "Pink Floyd"
+        },
+        {
+            "id": "The Beach Boys"
+        },
+        {
+            "id": "Randy Travis"
+        },
+        {
+            "id": "Steely Dan"
+        },
+        {
+            "id": "Megadeth"
+        },
+        {
+            "id": "Blondie"
+        },
+        {
+            "id": "Slipknot"
+        },
+        {
+            "id": "Panic! At The Disco"
+        },
+        {
+            "id": "Joe Jackson"
+        },
+        {
+            "id": "Chicago"
+        },
+        {
+            "id": "Van Morrison"
+        },
+        {
+            "id": "Tom Petty and the Heartbreakers"
+        },
+        {
+            "id": "Andy Williams"
+        },
+        {
+            "id": "Willie Nelson"
+        },
+        {
+            "id": "Hombres G"
+        },
+        {
+            "id": "Cream"
+        },
+        {
+            "id": "Simon & Garfunkel"
+        },
+        {
+            "id": "Jimi Hendrix"
+        },
+        {
+            "id": "Joe Diffie"
+        },
+        {
+            "id": "The Animals"
+        },
+        {
+            "id": "Paul McCartney"
+        }
+    ],
+    "links": [
+        {
+            "weight": 1,
+            "source": "10cc",
+            "target": "Electric Light Orchestra"
+        },
+        {
+            "weight": 1,
+            "source": "Simple Minds",
+            "target": "a-ha"
+        },
+        {
+            "weight": 1,
+            "source": "Alice Cooper",
+            "target": "Aerosmith"
+        },
+        {
+            "weight": 1,
+            "source": "Aerosmith",
+            "target": "Guns N' Roses"
+        },
+        {
+            "weight": 1,
+            "source": "Aerosmith",
+            "target": "Motley Crue"
+        },
+        {
+            "weight": 1,
+            "source": "Bread",
+            "target": "Air Supply"
+        },
+        {
+            "weight": 1,
+            "source": "Chicago",
+            "target": "Air Supply"
+        },
+        {
+            "weight": 1,
+            "source": "Carpenters",
+            "target": "Air Supply"
+        },
+        {
+            "weight": 1,
+            "source": "Alice Cooper",
+            "target": "KISS"
+        },
+        {
+            "weight": 1,
+            "source": "Alice Cooper",
+            "target": "Judas Priest"
+        },
+        {
+            "weight": 1,
+            "source": "Bread",
+            "target": "America"
+        },
+        {
+            "weight": 1,
+            "source": "Jim Croce",
+            "target": "America"
+        },
+        {
+            "weight": 1,
+            "source": "James Taylor",
+            "target": "America"
+        },
+        {
+            "weight": 1,
+            "source": "Chicago",
+            "target": "America"
+        },
+        {
+            "weight": 1,
+            "source": "Tina Turner",
+            "target": "Annie Lennox"
+        },
+        {
+            "weight": 1,
+            "source": "Barbra Streisand",
+            "target": "Dionne Warwick"
+        },
+        {
+            "weight": 1,
+            "source": "Barry Manilow",
+            "target": "Barbra Streisand"
+        },
+        {
+            "weight": 1,
+            "source": "Bee Gees",
+            "target": "Air Supply"
+        },
+        {
+            "weight": 1,
+            "source": "Bee Gees",
+            "target": "Kool & The Gang"
+        },
+        {
+            "weight": 1,
+            "source": "The Drifters",
+            "target": "Ben E. King"
+        },
+        {
+            "weight": 1,
+            "source": "Ben E. King",
+            "target": "The Righteous Brothers"
+        },
+        {
+            "weight": 1,
+            "source": "Ben E. King",
+            "target": "The Supremes"
+        },
+        {
+            "weight": 1,
+            "source": "The Police",
+            "target": "Billy Idol"
+        },
+        {
+            "weight": 1,
+            "source": "Simple Minds",
+            "target": "Billy Idol"
+        },
+        {
+            "weight": 1,
+            "source": "Chicago",
+            "target": "Billy Joel"
+        },
+        {
+            "weight": 1,
+            "source": "Steve Miller Band",
+            "target": "Billy Joel"
+        },
+        {
+            "weight": 1,
+            "source": "Jim Croce",
+            "target": "Billy Joel"
+        },
+        {
+            "weight": 1,
+            "source": "James Taylor",
+            "target": "Billy Joel"
+        },
+        {
+            "weight": 1,
+            "source": "Black Sabbath",
+            "target": "Iron Maiden"
+        },
+        {
+            "weight": 1,
+            "source": "Ozzy Osbourne",
+            "target": "Black Sabbath"
+        },
+        {
+            "weight": 1,
+            "source": "Black Sabbath",
+            "target": "Megadeth"
+        },
+        {
+            "weight": 1,
+            "source": "Deep Purple",
+            "target": "Black Sabbath"
+        },
+        {
+            "weight": 1,
+            "source": "Alice Cooper",
+            "target": "Black Sabbath"
+        },
+        {
+            "weight": 1,
+            "source": "The Offspring",
+            "target": "blink-182"
+        },
+        {
+            "weight": 1,
+            "source": "Blondie",
+            "target": "Billy Idol"
+        },
+        {
+            "weight": 1,
+            "source": "Leonard Cohen",
+            "target": "Bob Dylan"
+        },
+        {
+            "weight": 1,
+            "source": "Lou Reed",
+            "target": "Bob Dylan"
+        },
+        {
+            "weight": 1,
+            "source": "Tom Waits",
+            "target": "Bob Dylan"
+        },
+        {
+            "weight": 1,
+            "source": "Simon & Garfunkel",
+            "target": "Bob Dylan"
+        },
+        {
+            "weight": 1,
+            "source": "Bob Seger",
+            "target": "John Mellencamp"
+        },
+        {
+            "weight": 1,
+            "source": "Bob Seger",
+            "target": "The Doobie Brothers"
+        },
+        {
+            "weight": 1,
+            "source": "Bob Seger",
+            "target": "Tom Petty and the Heartbreakers"
+        },
+        {
+            "weight": 1,
+            "source": "Bob Seger",
+            "target": "Boston"
+        },
+        {
+            "weight": 1,
+            "source": "Bob Seger",
+            "target": "REO Speedwagon"
+        },
+        {
+            "weight": 1,
+            "source": "Aerosmith",
+            "target": "Bon Jovi"
+        },
+        {
+            "weight": 1,
+            "source": "Def Leppard",
+            "target": "Bon Jovi"
+        },
+        {
+            "weight": 1,
+            "source": "Scorpions",
+            "target": "Bon Jovi"
+        },
+        {
+            "weight": 1,
+            "source": "KISS",
+            "target": "Bon Jovi"
+        },
+        {
+            "weight": 1,
+            "source": "Bonnie Tyler",
+            "target": "Tina Turner"
+        },
+        {
+            "weight": 1,
+            "source": "Steve Miller Band",
+            "target": "Boston"
+        },
+        {
+            "weight": 1,
+            "source": "Bread",
+            "target": "America"
+        },
+        {
+            "weight": 1,
+            "source": "Bread",
+            "target": "Air Supply"
+        },
+        {
+            "weight": 1,
+            "source": "Bruce Springsteen",
+            "target": "John Mellencamp"
+        },
+        {
+            "weight": 1,
+            "source": "Bruce Springsteen",
+            "target": "Tom Petty and the Heartbreakers"
+        },
+        {
+            "weight": 1,
+            "source": "Bruce Springsteen",
+            "target": "Tom Petty"
+        },
+        {
+            "weight": 1,
+            "source": "Air Supply",
+            "target": "Bryan Adams"
+        },
+        {
+            "weight": 1,
+            "source": "Heart",
+            "target": "Bryan Adams"
+        },
+        {
+            "weight": 1,
+            "source": "REO Speedwagon",
+            "target": "Bryan Adams"
+        },
+        {
+            "weight": 1,
+            "source": "Phil Collins",
+            "target": "Bryan Adams"
+        },
+        {
+            "weight": 1,
+            "source": "TOTO",
+            "target": "Bryan Adams"
+        },
+        {
+            "weight": 1,
+            "source": "Foreigner",
+            "target": "Bryan Adams"
+        },
+        {
+            "weight": 1,
+            "source": "Buddy Holly",
+            "target": "Jerry Lee Lewis"
+        },
+        {
+            "weight": 1,
+            "source": "Buddy Holly",
+            "target": "The Everly Brothers"
+        },
+        {
+            "weight": 1,
+            "source": "Buddy Holly",
+            "target": "Ricky Nelson"
+        },
+        {
+            "weight": 1,
+            "source": "Buddy Holly",
+            "target": "Chuck Berry"
+        },
+        {
+            "weight": 1,
+            "source": "Carole King",
+            "target": "Don McLean"
+        },
+        {
+            "weight": 1,
+            "source": "Carpenters",
+            "target": "Air Supply"
+        },
+        {
+            "weight": 1,
+            "source": "Chicago",
+            "target": "America"
+        },
+        {
+            "weight": 1,
+            "source": "Chicago",
+            "target": "The Doobie Brothers"
+        },
+        {
+            "weight": 1,
+            "source": "Chicago",
+            "target": "TOTO"
+        },
+        {
+            "weight": 1,
+            "source": "Chicago",
+            "target": "REO Speedwagon"
+        },
+        {
+            "weight": 1,
+            "source": "Chicago",
+            "target": "Steely Dan"
+        },
+        {
+            "weight": 1,
+            "source": "Chicago",
+            "target": "Daryl Hall & John Oates"
+        },
+        {
+            "weight": 1,
+            "source": "Chicago",
+            "target": "Billy Joel"
+        },
+        {
+            "weight": 1,
+            "source": "Chicago",
+            "target": "Kenny Loggins"
+        },
+        {
+            "weight": 1,
+            "source": "Chicago",
+            "target": "Air Supply"
+        },
+        {
+            "weight": 1,
+            "source": "Chicago",
+            "target": "Eagles"
+        },
+        {
+            "weight": 1,
+            "source": "Buddy Holly",
+            "target": "Chuck Berry"
+        },
+        {
+            "weight": 1,
+            "source": "Little Richard",
+            "target": "Chuck Berry"
+        },
+        {
+            "weight": 1,
+            "source": "Fats Domino",
+            "target": "Chuck Berry"
+        },
+        {
+            "weight": 1,
+            "source": "Chubby Checker",
+            "target": "Chuck Berry"
+        },
+        {
+            "weight": 1,
+            "source": "Roy Orbison",
+            "target": "Chuck Berry"
+        },
+        {
+            "weight": 1,
+            "source": "Creedence Clearwater Revival",
+            "target": "Lynyrd Skynyrd"
+        },
+        {
+            "weight": 1,
+            "source": "Creedence Clearwater Revival",
+            "target": "Tom Petty and the Heartbreakers"
+        },
+        {
+            "weight": 1,
+            "source": "Creedence Clearwater Revival",
+            "target": "ZZ Top"
+        },
+        {
+            "weight": 1,
+            "source": "Cyndi Lauper",
+            "target": "Tina Turner"
+        },
+        {
+            "weight": 1,
+            "source": "Chicago",
+            "target": "Daryl Hall & John Oates"
+        },
+        {
+            "weight": 1,
+            "source": "Lou Reed",
+            "target": "David Bowie"
+        },
+        {
+            "weight": 1,
+            "source": "David Bowie",
+            "target": "Talking Heads"
+        },
+        {
+            "weight": 1,
+            "source": "David Bowie",
+            "target": "Queen"
+        },
+        {
+            "weight": 1,
+            "source": "David Bowie",
+            "target": "Wings"
+        },
+        {
+            "weight": 1,
+            "source": "Deep Purple",
+            "target": "Judas Priest"
+        },
+        {
+            "weight": 1,
+            "source": "Deep Purple",
+            "target": "Black Sabbath"
+        },
+        {
+            "weight": 1,
+            "source": "Deep Purple",
+            "target": "ZZ Top"
+        },
+        {
+            "weight": 1,
+            "source": "Depeche Mode",
+            "target": "Duran Duran"
+        },
+        {
+            "weight": 1,
+            "source": "Depeche Mode",
+            "target": "Tears For Fears"
+        },
+        {
+            "weight": 1,
+            "source": "Depeche Mode",
+            "target": "a-ha"
+        },
+        {
+            "weight": 1,
+            "source": "Dido",
+            "target": "The Cranberries"
+        },
+        {
+            "weight": 1,
+            "source": "Joe Cocker",
+            "target": "Dire Straits"
+        },
+        {
+            "weight": 1,
+            "source": "Eric Clapton",
+            "target": "Dire Straits"
+        },
+        {
+            "weight": 1,
+            "source": "Jim Croce",
+            "target": "Don McLean"
+        },
+        {
+            "weight": 1,
+            "source": "Yusuf / Cat Stevens",
+            "target": "Don McLean"
+        },
+        {
+            "weight": 1,
+            "source": "James Taylor",
+            "target": "Don McLean"
+        },
+        {
+            "weight": 1,
+            "source": "Bread",
+            "target": "Don McLean"
+        },
+        {
+            "weight": 1,
+            "source": "Carole King",
+            "target": "Don McLean"
+        },
+        {
+            "weight": 1,
+            "source": "Neil Diamond",
+            "target": "Don McLean"
+        },
+        {
+            "weight": 1,
+            "source": "Simple Minds",
+            "target": "Duran Duran"
+        },
+        {
+            "weight": 1,
+            "source": "Steve Miller Band",
+            "target": "Eagles"
+        },
+        {
+            "weight": 1,
+            "source": "Bob Seger",
+            "target": "Eagles"
+        },
+        {
+            "weight": 1,
+            "source": "Chicago",
+            "target": "Eagles"
+        },
+        {
+            "weight": 1,
+            "source": "Jim Croce",
+            "target": "Eagles"
+        },
+        {
+            "weight": 1,
+            "source": "10cc",
+            "target": "Electric Light Orchestra"
+        },
+        {
+            "weight": 1,
+            "source": "Steve Miller Band",
+            "target": "Electric Light Orchestra"
+        },
+        {
+            "weight": 1,
+            "source": "B.B. King",
+            "target": "Eric Clapton"
+        },
+        {
+            "weight": 1,
+            "source": "Fleetwood Mac",
+            "target": "Steely Dan"
+        },
+        {
+            "weight": 1,
+            "source": "Fleetwood Mac",
+            "target": "Tom Petty and the Heartbreakers"
+        },
+        {
+            "weight": 1,
+            "source": "Fleetwood Mac",
+            "target": "The Doobie Brothers"
+        },
+        {
+            "weight": 1,
+            "source": "Fleetwood Mac",
+            "target": "Eagles"
+        },
+        {
+            "weight": 1,
+            "source": "Fleetwood Mac",
+            "target": "America"
+        },
+        {
+            "weight": 1,
+            "source": "Fleetwood Mac",
+            "target": "Heart"
+        },
+        {
+            "weight": 1,
+            "source": "Fleetwood Mac",
+            "target": "Daryl Hall & John Oates"
+        },
+        {
+            "weight": 1,
+            "source": "Fleetwood Mac",
+            "target": "John Mellencamp"
+        },
+        {
+            "weight": 1,
+            "source": "Foo Fighters",
+            "target": "The Smashing Pumpkins"
+        },
+        {
+            "weight": 1,
+            "source": "Foo Fighters",
+            "target": "Alice In Chains"
+        },
+        {
+            "weight": 1,
+            "source": "Foo Fighters",
+            "target": "Pearl Jam"
+        },
+        {
+            "weight": 1,
+            "source": "Genesis",
+            "target": "Phil Collins"
+        },
+        {
+            "weight": 1,
+            "source": "Genesis",
+            "target": "Supertramp"
+        },
+        {
+            "weight": 1,
+            "source": "Genesis",
+            "target": "Kansas"
+        },
+        {
+            "weight": 1,
+            "source": "George Harrison",
+            "target": "Wings"
+        },
+        {
+            "weight": 1,
+            "source": "Harry Nilsson",
+            "target": "George Harrison"
+        },
+        {
+            "weight": 1,
+            "source": "Aerosmith",
+            "target": "Guns N' Roses"
+        },
+        {
+            "weight": 1,
+            "source": "KISS",
+            "target": "Guns N' Roses"
+        },
+        {
+            "weight": 1,
+            "source": "AC/DC",
+            "target": "Guns N' Roses"
+        },
+        {
+            "weight": 1,
+            "source": "Van Halen",
+            "target": "Guns N' Roses"
+        },
+        {
+            "weight": 1,
+            "source": "Scorpions",
+            "target": "Guns N' Roses"
+        },
+        {
+            "weight": 1,
+            "source": "Harry Nilsson",
+            "target": "The Beach Boys"
+        },
+        {
+            "weight": 1,
+            "source": "Harry Nilsson",
+            "target": "The Mamas & The Papas"
+        },
+        {
+            "weight": 1,
+            "source": "Harry Nilsson",
+            "target": "The Monkees"
+        },
+        {
+            "weight": 1,
+            "source": "Harry Nilsson",
+            "target": "Carole King"
+        },
+        {
+            "weight": 1,
+            "source": "Harry Nilsson",
+            "target": "Paul McCartney"
+        },
+        {
+            "weight": 1,
+            "source": "Harry Nilsson",
+            "target": "George Harrison"
+        },
+        {
+            "weight": 1,
+            "source": "Harry Nilsson",
+            "target": "Paul Simon"
+        },
+        {
+            "weight": 1,
+            "source": "Harry Nilsson",
+            "target": "The Beatles"
+        },
+        {
+            "weight": 1,
+            "source": "Simple Minds",
+            "target": "INXS"
+        },
+        {
+            "weight": 1,
+            "source": "Judas Priest",
+            "target": "Iron Maiden"
+        },
+        {
+            "weight": 1,
+            "source": "Black Sabbath",
+            "target": "Iron Maiden"
+        },
+        {
+            "weight": 1,
+            "source": "James Taylor",
+            "target": "America"
+        },
+        {
+            "weight": 1,
+            "source": "James Taylor",
+            "target": "Don McLean"
+        },
+        {
+            "weight": 1,
+            "source": "Buddy Holly",
+            "target": "Jerry Lee Lewis"
+        },
+        {
+            "weight": 1,
+            "source": "Little Richard",
+            "target": "Jerry Lee Lewis"
+        },
+        {
+            "weight": 1,
+            "source": "Fats Domino",
+            "target": "Jerry Lee Lewis"
+        },
+        {
+            "weight": 1,
+            "source": "Chubby Checker",
+            "target": "Jerry Lee Lewis"
+        },
+        {
+            "weight": 1,
+            "source": "Jim Croce",
+            "target": "Don McLean"
+        },
+        {
+            "weight": 1,
+            "source": "Jim Croce",
+            "target": "America"
+        },
+        {
+            "weight": 1,
+            "source": "Jim Croce",
+            "target": "Jimmy Buffett"
+        },
+        {
+            "weight": 1,
+            "source": "James Taylor",
+            "target": "Jimmy Buffett"
+        },
+        {
+            "weight": 1,
+            "source": "Bob Seger",
+            "target": "Jimmy Buffett"
+        },
+        {
+            "weight": 1,
+            "source": "Steve Miller Band",
+            "target": "Jimmy Buffett"
+        },
+        {
+            "weight": 1,
+            "source": "Harry Nilsson",
+            "target": "John Lennon"
+        },
+        {
+            "weight": 1,
+            "source": "Simon & Garfunkel",
+            "target": "John Lennon"
+        },
+        {
+            "weight": 1,
+            "source": "John Lennon",
+            "target": "Electric Light Orchestra"
+        },
+        {
+            "weight": 1,
+            "source": "Steve Miller Band",
+            "target": "John Mellencamp"
+        },
+        {
+            "weight": 1,
+            "source": "Bob Seger",
+            "target": "John Mellencamp"
+        },
+        {
+            "weight": 1,
+            "source": "Chayanne",
+            "target": "Juanes"
+        },
+        {
+            "weight": 1,
+            "source": "Cristian Castro",
+            "target": "Juanes"
+        },
+        {
+            "weight": 1,
+            "source": "Judas Priest",
+            "target": "Iron Maiden"
+        },
+        {
+            "weight": 1,
+            "source": "Judas Priest",
+            "target": "Megadeth"
+        },
+        {
+            "weight": 1,
+            "source": "La Oreja de Van Gogh",
+            "target": "Julieta Venegas"
+        },
+        {
+            "weight": 1,
+            "source": "Chicago",
+            "target": "Kenny Loggins"
+        },
+        {
+            "weight": 1,
+            "source": "Alice Cooper",
+            "target": "KISS"
+        },
+        {
+            "weight": 1,
+            "source": "KISS",
+            "target": "Motley Crue"
+        },
+        {
+            "weight": 1,
+            "source": "Kris Kristofferson",
+            "target": "Merle Haggard"
+        },
+        {
+            "weight": 1,
+            "source": "Kris Kristofferson",
+            "target": "George Jones"
+        },
+        {
+            "weight": 1,
+            "source": "Led Zeppelin",
+            "target": "Lynyrd Skynyrd"
+        },
+        {
+            "weight": 1,
+            "source": "Led Zeppelin",
+            "target": "ZZ Top"
+        },
+        {
+            "weight": 1,
+            "source": "Led Zeppelin",
+            "target": "Black Sabbath"
+        },
+        {
+            "weight": 1,
+            "source": "Tina Turner",
+            "target": "Lionel Richie"
+        },
+        {
+            "weight": 1,
+            "source": "Air Supply",
+            "target": "Lionel Richie"
+        },
+        {
+            "weight": 1,
+            "source": "Lou Reed",
+            "target": "The Velvet Underground"
+        },
+        {
+            "weight": 1,
+            "source": "Allman Brothers Band",
+            "target": "Lynyrd Skynyrd"
+        },
+        {
+            "weight": 1,
+            "source": "Steve Miller Band",
+            "target": "Lynyrd Skynyrd"
+        },
+        {
+            "weight": 1,
+            "source": "Alice Cooper",
+            "target": "Meat Loaf"
+        },
+        {
+            "weight": 1,
+            "source": "Neil Diamond",
+            "target": "Meat Loaf"
+        },
+        {
+            "weight": 1,
+            "source": "Bob Seger",
+            "target": "Meat Loaf"
+        },
+        {
+            "weight": 1,
+            "source": "Bonnie Tyler",
+            "target": "Meat Loaf"
+        },
+        {
+            "weight": 1,
+            "source": "Judas Priest",
+            "target": "Megadeth"
+        },
+        {
+            "weight": 1,
+            "source": "Waylon Jennings",
+            "target": "Merle Haggard"
+        },
+        {
+            "weight": 1,
+            "source": "Judas Priest",
+            "target": "Metallica"
+        },
+        {
+            "weight": 1,
+            "source": "Black Sabbath",
+            "target": "Metallica"
+        },
+        {
+            "weight": 1,
+            "source": "Metallica",
+            "target": "Alice In Chains"
+        },
+        {
+            "weight": 1,
+            "source": "Muse",
+            "target": "The Killers"
+        },
+        {
+            "weight": 1,
+            "source": "KISS",
+            "target": "Motley Crue"
+        },
+        {
+            "weight": 1,
+            "source": "Harry Nilsson",
+            "target": "Nancy Sinatra"
+        },
+        {
+            "weight": 1,
+            "source": "Neil Diamond",
+            "target": "Don McLean"
+        },
+        {
+            "weight": 1,
+            "source": "Nirvana",
+            "target": "The Smashing Pumpkins"
+        },
+        {
+            "weight": 1,
+            "source": "Nirvana",
+            "target": "Pearl Jam"
+        },
+        {
+            "weight": 1,
+            "source": "OneRepublic",
+            "target": "James Arthur"
+        },
+        {
+            "weight": 1,
+            "source": "Ozzy Osbourne",
+            "target": "Judas Priest"
+        },
+        {
+            "weight": 1,
+            "source": "Ozzy Osbourne",
+            "target": "Black Sabbath"
+        },
+        {
+            "weight": 1,
+            "source": "Paul McCartney",
+            "target": "Wings"
+        },
+        {
+            "weight": 1,
+            "source": "Paul McCartney",
+            "target": "Electric Light Orchestra"
+        },
+        {
+            "weight": 1,
+            "source": "Simon & Garfunkel",
+            "target": "Paul McCartney"
+        },
+        {
+            "weight": 1,
+            "source": "Paul McCartney",
+            "target": "Billy Joel"
+        },
+        {
+            "weight": 1,
+            "source": "Simon & Garfunkel",
+            "target": "Paul Simon"
+        },
+        {
+            "weight": 1,
+            "source": "Harry Nilsson",
+            "target": "Paul Simon"
+        },
+        {
+            "weight": 1,
+            "source": "Paul Simon",
+            "target": "Don McLean"
+        },
+        {
+            "weight": 1,
+            "source": "Foo Fighters",
+            "target": "Pearl Jam"
+        },
+        {
+            "weight": 1,
+            "source": "Chicago",
+            "target": "Phil Collins"
+        },
+        {
+            "weight": 1,
+            "source": "Phil Collins",
+            "target": "Lionel Richie"
+        },
+        {
+            "weight": 1,
+            "source": "Pink Floyd",
+            "target": "Supertramp"
+        },
+        {
+            "weight": 1,
+            "source": "Pink Floyd",
+            "target": "Rush"
+        },
+        {
+            "weight": 1,
+            "source": "David Bowie",
+            "target": "Queen"
+        },
+        {
+            "weight": 1,
+            "source": "Elton John",
+            "target": "Queen"
+        },
+        {
+            "weight": 1,
+            "source": "The Who",
+            "target": "Queen"
+        },
+        {
+            "weight": 1,
+            "source": "Led Zeppelin",
+            "target": "Queen"
+        },
+        {
+            "weight": 1,
+            "source": "Deep Purple",
+            "target": "Queen"
+        },
+        {
+            "weight": 1,
+            "source": "The Police",
+            "target": "R.E.M."
+        },
+        {
+            "weight": 1,
+            "source": "The Cure",
+            "target": "R.E.M."
+        },
+        {
+            "weight": 1,
+            "source": "R.E.M.",
+            "target": "The Cranberries"
+        },
+        {
+            "weight": 1,
+            "source": "Simple Minds",
+            "target": "R.E.M."
+        },
+        {
+            "weight": 1,
+            "source": "Talking Heads",
+            "target": "R.E.M."
+        },
+        {
+            "weight": 1,
+            "source": "Dire Straits",
+            "target": "R.E.M."
+        },
+        {
+            "weight": 1,
+            "source": "R.E.M.",
+            "target": "Pearl Jam"
+        },
+        {
+            "weight": 1,
+            "source": "R.E.M.",
+            "target": "The Smashing Pumpkins"
+        },
+        {
+            "weight": 1,
+            "source": "The Smiths",
+            "target": "Radiohead"
+        },
+        {
+            "weight": 1,
+            "source": "The Clash",
+            "target": "Ramones"
+        },
+        {
+            "weight": 1,
+            "source": "Red Hot Chili Peppers",
+            "target": "Rage Against The Machine"
+        },
+        {
+            "weight": 1,
+            "source": "Chicago",
+            "target": "REO Speedwagon"
+        },
+        {
+            "weight": 1,
+            "source": "Ricardo Montaner",
+            "target": "Ricardo Arjona"
+        },
+        {
+            "weight": 1,
+            "source": "Chayanne",
+            "target": "Ricardo Arjona"
+        },
+        {
+            "weight": 1,
+            "source": "Cristian Castro",
+            "target": "Ricardo Arjona"
+        },
+        {
+            "weight": 1,
+            "source": "Buddy Holly",
+            "target": "Ricky Nelson"
+        },
+        {
+            "weight": 1,
+            "source": "Chubby Checker",
+            "target": "Ricky Nelson"
+        },
+        {
+            "weight": 1,
+            "source": "Michael Bolton",
+            "target": "Rod Stewart"
+        },
+        {
+            "weight": 1,
+            "source": "Dionne Warwick",
+            "target": "Rod Stewart"
+        },
+        {
+            "weight": 1,
+            "source": "Tina Turner",
+            "target": "Roxette"
+        },
+        {
+            "weight": 1,
+            "source": "Roy Orbison",
+            "target": "The Everly Brothers"
+        },
+        {
+            "weight": 1,
+            "source": "Roy Orbison",
+            "target": "Ricky Nelson"
+        },
+        {
+            "weight": 1,
+            "source": "Roy Orbison",
+            "target": "Jerry Lee Lewis"
+        },
+        {
+            "weight": 1,
+            "source": "Roy Orbison",
+            "target": "The Platters"
+        },
+        {
+            "weight": 1,
+            "source": "Pink Floyd",
+            "target": "Rush"
+        },
+        {
+            "weight": 1,
+            "source": "Sam Cooke",
+            "target": "Otis Redding"
+        },
+        {
+            "weight": 1,
+            "source": "Sam Cooke",
+            "target": "Four Tops"
+        },
+        {
+            "weight": 1,
+            "source": "Sam Cooke",
+            "target": "The Temptations"
+        },
+        {
+            "weight": 1,
+            "source": "Sam Cooke",
+            "target": "The Supremes"
+        },
+        {
+            "weight": 1,
+            "source": "The Drifters",
+            "target": "Sam Cooke"
+        },
+        {
+            "weight": 1,
+            "source": "Bill Withers",
+            "target": "Sam Cooke"
+        },
+        {
+            "weight": 1,
+            "source": "B.B. King",
+            "target": "Santana"
+        },
+        {
+            "weight": 1,
+            "source": "Alice Cooper",
+            "target": "Scorpions"
+        },
+        {
+            "weight": 1,
+            "source": "Deep Purple",
+            "target": "Scorpions"
+        },
+        {
+            "weight": 1,
+            "source": "Europe",
+            "target": "Scorpions"
+        },
+        {
+            "weight": 1,
+            "source": "Simon & Garfunkel",
+            "target": "Paul Simon"
+        },
+        {
+            "weight": 1,
+            "source": "Simon & Garfunkel",
+            "target": "Yusuf / Cat Stevens"
+        },
+        {
+            "weight": 1,
+            "source": "Simon & Garfunkel",
+            "target": "Jim Croce"
+        },
+        {
+            "weight": 1,
+            "source": "Simon & Garfunkel",
+            "target": "The Mamas & The Papas"
+        },
+        {
+            "weight": 1,
+            "source": "Simon & Garfunkel",
+            "target": "George Harrison"
+        },
+        {
+            "weight": 1,
+            "source": "Simon & Garfunkel",
+            "target": "Carole King"
+        },
+        {
+            "weight": 1,
+            "source": "Simon & Garfunkel",
+            "target": "James Taylor"
+        },
+        {
+            "weight": 1,
+            "source": "Simon & Garfunkel",
+            "target": "Bob Dylan"
+        },
+        {
+            "weight": 1,
+            "source": "Simple Minds",
+            "target": "Tears For Fears"
+        },
+        {
+            "weight": 1,
+            "source": "Simple Minds",
+            "target": "Duran Duran"
+        },
+        {
+            "weight": 1,
+            "source": "Steve Miller Band",
+            "target": "Steely Dan"
+        },
+        {
+            "weight": 1,
+            "source": "10cc",
+            "target": "Steely Dan"
+        },
+        {
+            "weight": 1,
+            "source": "Steve Miller Band",
+            "target": "The Doobie Brothers"
+        },
+        {
+            "weight": 1,
+            "source": "Steve Miller Band",
+            "target": "Tom Petty and the Heartbreakers"
+        },
+        {
+            "weight": 1,
+            "source": "Steve Miller Band",
+            "target": "Boston"
+        },
+        {
+            "weight": 1,
+            "source": "Steve Miller Band",
+            "target": "John Mellencamp"
+        },
+        {
+            "weight": 1,
+            "source": "Steve Miller Band",
+            "target": "Eagles"
+        },
+        {
+            "weight": 1,
+            "source": "Sting",
+            "target": "The Police"
+        },
+        {
+            "weight": 1,
+            "source": "Sting",
+            "target": "Simple Minds"
+        },
+        {
+            "weight": 1,
+            "source": "10cc",
+            "target": "Supertramp"
+        },
+        {
+            "weight": 1,
+            "source": "Genesis",
+            "target": "Supertramp"
+        },
+        {
+            "weight": 1,
+            "source": "System Of A Down",
+            "target": "Korn"
+        },
+        {
+            "weight": 1,
+            "source": "Disturbed",
+            "target": "System Of A Down"
+        },
+        {
+            "weight": 1,
+            "source": "The Velvet Underground",
+            "target": "Talking Heads"
+        },
+        {
+            "weight": 1,
+            "source": "Harry Nilsson",
+            "target": "The Beach Boys"
+        },
+        {
+            "weight": 1,
+            "source": "Simon & Garfunkel",
+            "target": "The Beatles"
+        },
+        {
+            "weight": 1,
+            "source": "The Beatles",
+            "target": "Wings"
+        },
+        {
+            "weight": 1,
+            "source": "Chuck Berry",
+            "target": "The Beatles"
+        },
+        {
+            "weight": 1,
+            "source": "The Charlie Daniels Band",
+            "target": "George Jones"
+        },
+        {
+            "weight": 1,
+            "source": "The Charlie Daniels Band",
+            "target": "Joe Diffie"
+        },
+        {
+            "weight": 1,
+            "source": "The Clash",
+            "target": "Ramones"
+        },
+        {
+            "weight": 1,
+            "source": "Dido",
+            "target": "The Cranberries"
+        },
+        {
+            "weight": 1,
+            "source": "R.E.M.",
+            "target": "The Cranberries"
+        },
+        {
+            "weight": 1,
+            "source": "The Cure",
+            "target": "The Smiths"
+        },
+        {
+            "weight": 1,
+            "source": "Steve Miller Band",
+            "target": "The Doobie Brothers"
+        },
+        {
+            "weight": 1,
+            "source": "Chicago",
+            "target": "The Doobie Brothers"
+        },
+        {
+            "weight": 1,
+            "source": "The Drifters",
+            "target": "Ben E. King"
+        },
+        {
+            "weight": 1,
+            "source": "The Drifters",
+            "target": "The Platters"
+        },
+        {
+            "weight": 1,
+            "source": "Buddy Holly",
+            "target": "The Everly Brothers"
+        },
+        {
+            "weight": 1,
+            "source": "Chubby Checker",
+            "target": "The Everly Brothers"
+        },
+        {
+            "weight": 1,
+            "source": "Fats Domino",
+            "target": "The Everly Brothers"
+        },
+        {
+            "weight": 1,
+            "source": "Roy Orbison",
+            "target": "The Everly Brothers"
+        },
+        {
+            "weight": 1,
+            "source": "Muse",
+            "target": "The Killers"
+        },
+        {
+            "weight": 1,
+            "source": "Harry Nilsson",
+            "target": "The Kinks"
+        },
+        {
+            "weight": 1,
+            "source": "The Offspring",
+            "target": "Green Day"
+        },
+        {
+            "weight": 1,
+            "source": "The Police",
+            "target": "Billy Idol"
+        },
+        {
+            "weight": 1,
+            "source": "The Police",
+            "target": "INXS"
+        },
+        {
+            "weight": 1,
+            "source": "The Police",
+            "target": "R.E.M."
+        },
+        {
+            "weight": 1,
+            "source": "The Police",
+            "target": "Tears For Fears"
+        },
+        {
+            "weight": 1,
+            "source": "The Police",
+            "target": "Duran Duran"
+        },
+        {
+            "weight": 1,
+            "source": "The Platters",
+            "target": "The Righteous Brothers"
+        },
+        {
+            "weight": 1,
+            "source": "The Everly Brothers",
+            "target": "The Righteous Brothers"
+        },
+        {
+            "weight": 1,
+            "source": "Chuck Berry",
+            "target": "The Rolling Stones"
+        },
+        {
+            "weight": 1,
+            "source": "The Rolling Stones",
+            "target": "Tom Petty and the Heartbreakers"
+        },
+        {
+            "weight": 1,
+            "source": "The Cure",
+            "target": "The Smiths"
+        },
+        {
+            "weight": 1,
+            "source": "Lou Reed",
+            "target": "The Velvet Underground"
+        },
+        {
+            "weight": 1,
+            "source": "The Who",
+            "target": "Tom Petty and the Heartbreakers"
+        },
+        {
+            "weight": 1,
+            "source": "Tina Turner",
+            "target": "Annie Lennox"
+        },
+        {
+            "weight": 1,
+            "source": "Bonnie Tyler",
+            "target": "Tina Turner"
+        },
+        {
+            "weight": 1,
+            "source": "Cher",
+            "target": "Tina Turner"
+        },
+        {
+            "weight": 1,
+            "source": "Cyndi Lauper",
+            "target": "Tina Turner"
+        },
+        {
+            "weight": 1,
+            "source": "Tina Turner",
+            "target": "Lionel Richie"
+        },
+        {
+            "weight": 1,
+            "source": "Steve Miller Band",
+            "target": "Tom Petty and the Heartbreakers"
+        },
+        {
+            "weight": 1,
+            "source": "Bob Seger",
+            "target": "Tom Petty and the Heartbreakers"
+        },
+        {
+            "weight": 1,
+            "source": "Steve Miller Band",
+            "target": "Tom Petty"
+        },
+        {
+            "weight": 1,
+            "source": "Bob Seger",
+            "target": "Tom Petty"
+        },
+        {
+            "weight": 1,
+            "source": "Chicago",
+            "target": "TOTO"
+        },
+        {
+            "weight": 1,
+            "source": "Simple Minds",
+            "target": "U2"
+        },
+        {
+            "weight": 1,
+            "source": "The Police",
+            "target": "U2"
+        },
+        {
+            "weight": 1,
+            "source": "Alice Cooper",
+            "target": "Van Halen"
+        },
+        {
+            "weight": 1,
+            "source": "Waylon Jennings",
+            "target": "George Jones"
+        },
+        {
+            "weight": 1,
+            "source": "Waylon Jennings",
+            "target": "Merle Haggard"
+        },
+        {
+            "weight": 1,
+            "source": "Willie Nelson",
+            "target": "Merle Haggard"
+        },
+        {
+            "weight": 1,
+            "source": "Willie Nelson",
+            "target": "George Jones"
+        },
+        {
+            "weight": 1,
+            "source": "George Harrison",
+            "target": "Wings"
+        },
+        {
+            "weight": 1,
+            "source": "Paul McCartney",
+            "target": "Wings"
+        },
+        {
+            "weight": 1,
+            "source": "John Lennon",
+            "target": "Wings"
+        },
+        {
+            "weight": 1,
+            "source": "10cc",
+            "target": "Wings"
+        },
+        {
+            "weight": 1,
+            "source": "The Monkees",
+            "target": "Wings"
+        },
+        {
+            "weight": 1,
+            "source": "The Kinks",
+            "target": "Wings"
+        },
+        {
+            "weight": 1,
+            "source": "Steppenwolf",
+            "target": "ZZ Top"
+        },
+        {
+            "weight": 1,
+            "source": "Deep Purple",
+            "target": "ZZ Top"
+        }
+    ]
+}
