@@ -13,6 +13,7 @@ artists_data = json.load(
 def estimate_score(artist):
     artist['debut_year'] = datetime.datetime.strptime(
         debut_day_of_artist(artist['id']), "%Y-%m-%d").strftime("%Y")
+    print(artist['debut_year'])
     x = [[
         (2022 - int(artist['debut_year'])) / 122,
         artist['followers']['total'] / 8e+07,
